@@ -1,0 +1,9 @@
+advertising.twitter.com
+ads.facebook.com
+d.reddit.com
+metrics1.data.hicloud.com
+appmetrica.yandex.ru
+affiliationjs.s3.amazonaws.com
+amazonclix.com
+appmetrica.yandex.com
+metrics5.data.hicloud.com
