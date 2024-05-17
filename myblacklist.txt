@@ -7,4 +7,6 @@ affiliationjs.s3.amazonaws.com
 amazonclix.com
 appmetrica.yandex.com
 metrics5.data.hicloud.com
-https://samsungadhub.com
+samsungadhub.com
+d3ward.github.io##.adbox.banner_ads.adsbox
+d3ward.github.io##.textads
