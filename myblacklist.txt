@@ -10,3 +10,5 @@ metrics5.data.hicloud.com
 samsungadhub.com
 d3ward.github.io##.adbox.banner_ads.adsbox
 d3ward.github.io##.textads
+/pagead.js$domain=d3ward.github.io
+/widget/ads.
